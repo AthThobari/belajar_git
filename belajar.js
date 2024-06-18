@@ -37,8 +37,8 @@
 //     console.log(student[i])
 // }
 
-function Tambah(a, b){
-    console.log(a + b)
-}
+// function Tambah(a, b){
+//     console.log(a + b)
+// }
 
-Tambah(5, 7)
+// Tambah(5, 7)
