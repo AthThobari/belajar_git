@@ -33,7 +33,8 @@
 //     }
 // ]
 
-// for(let i = 0; i < student.length; i++){
+// i itu adalah index, bisa diganti dengan yang lain
+// for(let i = 0; i < student.length; i++){  
 //     console.log(student[i])
 // }
 
@@ -42,3 +43,39 @@
 // }
 
 // Tambah(5, 7)
+
+// const firstName = "Joko ";
+// const secondName = "Rusdiyandi";
+// const fullName = "Joko Rusdiyandi";
+
+// console.log(firstName + secondName);
+// console.log(fullName);
+
+// let firstName = "Faiz ";
+// let secondName = "Rusdiyandi";
+// let fullName = "Joko Rusdiyandi";
+
+// console.log(firstName + secondName);
+// console.log(fullName);
+
+// const foodFav = "Mie Ayam";
+// foodFav = "Rendang";
+
+// console.log(foodFav);
+
+// function RataRata(a, b, c){
+//     console.log(a % b % c);
+// }
+
+// RataRata(76, 40, 50);
+const result = 5 == "5";
+console.log(result);
+
+const originalResult = 5 === "5";
+console.log(originalResult);
+
+let results = 5 > 10;
+console.log(results);
+
+results = 5 < 10;
+console.log(results);
